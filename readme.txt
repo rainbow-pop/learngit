@@ -7,3 +7,4 @@ My stupid boss still prefers SVN.
 test push github!
 test push github!
 test push local!
+creating a new branch is quick and sample 
